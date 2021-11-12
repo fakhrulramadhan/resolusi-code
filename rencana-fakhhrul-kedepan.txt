@@ -7,3 +7,4 @@ Rencana SAya:
   * Framework Javascript (React, Express JS)
 2. UI / UX
 3. Opsional (Optimasi IG)
+ * Dasar Instagram
