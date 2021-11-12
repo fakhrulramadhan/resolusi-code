@@ -1,4 +1,9 @@
 Rencana SAya:
 1. Membuat Portofolio Frontend Web Dev
+  * HTML - CSS
+  * Bootstrap
+  * Laravel
+  * Javascript
+  * Framework Javascript (React, Express JS)
 2. UI / UX
 3. Opsional (Optimasi IG)
