@@ -6,5 +6,7 @@ Rencana SAya:
   * Javascript
   * Framework Javascript (React, Express JS)
 2. UI / UX
+ * Figma
+ * WHimsical
 3. Opsional (Optimasi IG)
  * Dasar Instagram
